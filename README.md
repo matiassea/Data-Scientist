@@ -37,5 +37,10 @@ In statistics, data transformation is the application of a deterministic mathema
 Source: https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html
 
 
+## Step 8: Pending
+https://www.datacamp.com/community/tutorials/understanding-recursive-functions-python
+https://www.datacamp.com/community/tutorials/decision-tree-classification-python
+
+
 
 

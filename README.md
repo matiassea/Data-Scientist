@@ -38,8 +38,9 @@ Source: https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-pyt
 
 
 ## Step 8: Pending
-Source: https://www.datacamp.com/community/tutorials/understanding-recursive-functions-python  /n
-Source: https://www.datacamp.com/community/tutorials/decision-tree-classification-python  /n
+Source: https://www.datacamp.com/community/tutorials/understanding-recursive-functions-python<br/>
+Source: https://www.datacamp.com/community/tutorials/decision-tree-classification-python<br/>
+https://www.kdnuggets.com/2018/04/key-algorithms-statistical-models-aspiring-data-scientists.html<br/>
 
 
 

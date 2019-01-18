@@ -46,9 +46,9 @@ Source: https://www.kdnuggets.com/2018/04/key-algorithms-statistical-models-aspi
 https://datatofish.com/upgrade-pip/
 
 ## Actualizacion de PIP
-C:\Python27>python.exe -m pip install --upgrade pip
-C:\Python27\Scripts>pip --version
-C:\Python27\Scripts>pip install --upgrade pandas
-C:\Python27\Scripts>pip install --upgrade scikit-learn
-C:\Python27\Scripts>pip install --upgrade seaborn
-C:\Python27\Scripts>pip install --upgrade matplotlib
+C:\Python27>python.exe -m pip install --upgrade pip <br/>
+C:\Python27\Scripts>pip --version <br/>
+C:\Python27\Scripts>pip install --upgrade pandas <br/>
+C:\Python27\Scripts>pip install --upgrade scikit-learn <br/>
+C:\Python27\Scripts>pip install --upgrade seaborn <br/>
+C:\Python27\Scripts>pip install --upgrade matplotlib <br/>

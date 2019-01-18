@@ -43,5 +43,12 @@ Source: https://www.datacamp.com/community/tutorials/decision-tree-classificatio
 Source: https://www.kdnuggets.com/2018/04/key-algorithms-statistical-models-aspiring-data-scientists.html<br/>
 
 
+https://datatofish.com/upgrade-pip/
 
-
+## Actualizacion de PIP
+C:\Python27>python.exe -m pip install --upgrade pip
+C:\Python27\Scripts>pip --version
+C:\Python27\Scripts>pip install --upgrade pandas
+C:\Python27\Scripts>pip install --upgrade scikit-learn
+C:\Python27\Scripts>pip install --upgrade seaborn
+C:\Python27\Scripts>pip install --upgrade matplotlib

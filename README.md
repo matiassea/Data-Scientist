@@ -52,3 +52,4 @@ C:\Python27\Scripts>pip install --upgrade pandas <br/>
 C:\Python27\Scripts>pip install --upgrade scikit-learn <br/>
 C:\Python27\Scripts>pip install --upgrade seaborn <br/>
 C:\Python27\Scripts>pip install --upgrade matplotlib <br/>
+C:\Python27\Scripts>pip install --upgrade numpy <br/>

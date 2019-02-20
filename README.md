@@ -41,6 +41,7 @@ Source: https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-pyt
 Source: https://www.datacamp.com/community/tutorials/understanding-recursive-functions-python<br/>
 Source: https://www.datacamp.com/community/tutorials/decision-tree-classification-python<br/>
 Source: https://www.kdnuggets.com/2018/04/key-algorithms-statistical-models-aspiring-data-scientists.html<br/>
+Source: https://www.quantinsti.com/blog/top-10-machine-learning-algorithms-beginners?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com<br/>
 
 
 https://datatofish.com/upgrade-pip/

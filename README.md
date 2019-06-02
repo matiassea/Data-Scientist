@@ -54,3 +54,9 @@ C:\Python27\Scripts>pip install --upgrade scikit-learn <br/>
 C:\Python27\Scripts>pip install --upgrade seaborn <br/>
 C:\Python27\Scripts>pip install --upgrade matplotlib <br/>
 C:\Python27\Scripts>pip install --upgrade numpy <br/>
+
+
+
+[7 Steps to Mastering Basic Machine Learning with Python](https://www.kdnuggets.com/2019/01/7-steps-mastering-basic-machine-learning-python.html)
+
+

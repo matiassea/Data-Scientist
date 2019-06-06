@@ -86,3 +86,6 @@ https://github.com/pyviz/panel
 conda install -c pyviz panel 
 pip install panel.
 
+## Pyviz
+
+http://pyviz.org/

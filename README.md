@@ -60,3 +60,29 @@ C:\Python27\Scripts>pip install --upgrade numpy <br/>
 [7 Steps to Mastering Basic Machine Learning with Python](https://www.kdnuggets.com/2019/01/7-steps-mastering-basic-machine-learning-python.html)
 
 
+
+## Bokeh
+
+conda install bokeh
+pip install bokeh
+
+https://bokeh.pydata.org/en/latest/docs/user_guide/quickstart.html#installation
+
+´´´python
+from bokeh.plotting import figure, output_file, show
+output_file("test.html")
+p = figure()
+p.line([1, 2, 3, 4, 5], [6, 7, 2, 4, 5], line_width=2)
+show(p)
+
+´´´
+
+## Panel
+https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52
+https://panel.pyviz.org/
+https://github.com/pyviz/panel
+
+
+conda install -c pyviz panel 
+pip install panel.
+

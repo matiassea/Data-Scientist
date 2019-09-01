@@ -89,3 +89,21 @@ pip install panel.
 ## Pyviz
 
 http://pyviz.org/
+
+
+## Classification
+
+Classification is one of the main methods of supervised learning, and the manner in which prediction is carried out as relates to data with class labels. Classification involves finding a model which describes data classes, which can then be used to classify instances of unknown data. The concept of training data versus testing data is of integral importance to classification. Popular classification algorithms for model building, and manners of presenting classifier models, include (but are not limited to) decision trees, logistic regression, support vector machines, and neural networks.
+
+### Regression
+
+Regression is similar to classification, in that it is another dominant form of supervised learning and is useful for predictive analysis. They differ in that classification is used for predictions of data with distinct finite classes, while regression is used for predicting continuous numeric data. As a form of supervised learning, training/testing data is an important concept in regression as well.
+
+
+Step 5. Clustering
+
+ 
+Clustering is used for analyzing data which does not include pre-labeled classes. Data instances are grouped together using the concept of maximizing intraclass similarity and minimizing the similarity between differing classes. This translates to the clustering algorithm identifying and grouping instances which are very similar, as opposed to ungrouped instances which are much less-similar to one another. As clustering does not require the pre-labeling of classes, it is a form of unsupervised learning.
+
+https://www.kdnuggets.com/2019/01/7-steps-mastering-basic-machine-learning-python.html
+https://towardsdatascience.com/an-introduction-to-clustering-algorithms-in-python-123438574097

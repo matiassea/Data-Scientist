@@ -99,11 +99,26 @@ Classification is one of the main methods of supervised learning, and the manner
 
 Regression is similar to classification, in that it is another dominant form of supervised learning and is useful for predictive analysis. They differ in that classification is used for predictions of data with distinct finite classes, while regression is used for predicting continuous numeric data. As a form of supervised learning, training/testing data is an important concept in regression as well.
 
-
-Step 5. Clustering
-
+### Clustering
  
 Clustering is used for analyzing data which does not include pre-labeled classes. Data instances are grouped together using the concept of maximizing intraclass similarity and minimizing the similarity between differing classes. This translates to the clustering algorithm identifying and grouping instances which are very similar, as opposed to ungrouped instances which are much less-similar to one another. As clustering does not require the pre-labeling of classes, it is a form of unsupervised learning.
 
 https://www.kdnuggets.com/2019/01/7-steps-mastering-basic-machine-learning-python.html
 https://towardsdatascience.com/an-introduction-to-clustering-algorithms-in-python-123438574097
+
+
+## Kmeans
+https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
+
+“the objective of K-means is simple: group similar data points together and discover underlying patterns. To achieve this objective, K-means looks for a fixed number (k) of clusters in a dataset.”
+
+A cluster refers to a collection of data points aggregated together because of certain similarities.
+
+You’ll define a target number k, which refers to the number of centroids you need in the dataset. A centroid is the imaginary or real location representing the center of the cluster.
+
+Every data point is allocated to each of the clusters through reducing the in-cluster sum of squares.
+
+In other words, the K-means algorithm identifies k number of centroids, and then allocates every data point to the nearest cluster, while keeping the centroids as small as possible.
+
+The ‘means’ in the K-means refers to averaging of the data; that is, finding the centroid.
+

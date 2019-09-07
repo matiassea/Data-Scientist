@@ -126,17 +126,20 @@ The ‘means’ in the K-means refers to averaging of the data; that is, finding
 from sklearn.cluster import KMeans
 Kmean = KMeans(n_clusters=2)
 Kmean.fit(X)
+
 ´´´
 
 Here is the code for finding the center of the clusters:
 
 ´´´python
 Kmean.cluster_centers_
+
 ´´´
 Here is the code for getting the labels property of the K-means clustering example dataset; that is, how the data points are categorized into the two clusters.
 
 ´´´python
 Kmean.labels_
+
 ´´´
 
 For example, let’s use the code below for predicting the cluster of a data point:
@@ -145,6 +148,7 @@ For example, let’s use the code below for predicting the cluster of a data poi
 sample_test=np.array([-3.0,-3.0])
 second_test=sample_test.reshape(1, -1)
 Kmean.predict(second_test)
+
 ´´´
 
 ## Total Code
@@ -172,6 +176,7 @@ Kmean.labels_
 sample_test=np.array([-3.0,-3.0])
 second_test=sample_test.reshape(1, -1)
 Kmean.predict(second_test)
+
 ´´´
 
 

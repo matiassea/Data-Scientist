@@ -175,3 +175,15 @@ sample_test=np.array([-3.0,-3.0])
 second_test=sample_test.reshape(1, -1)
 Kmean.predict(second_test)
 ```
+
+![1](https://user-images.githubusercontent.com/17385297/65458431-f8bf0280-de23-11e9-8f7e-418e239da1ae.png)
+
+![2](https://user-images.githubusercontent.com/17385297/65458446-fceb2000-de23-11e9-8353-cbc482dd90f5.png)
+
+![3](https://user-images.githubusercontent.com/17385297/65458452-007ea700-de24-11e9-81d7-742237994106.png)
+
+![4](https://user-images.githubusercontent.com/17385297/65458466-07a5b500-de24-11e9-8467-fc653277c477.png)
+
+![5](https://user-images.githubusercontent.com/17385297/65458473-0bd1d280-de24-11e9-8b74-64c641253981.png)
+
+
